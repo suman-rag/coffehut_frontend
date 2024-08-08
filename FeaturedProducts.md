@@ -1,1 +1,2 @@
 -product 1: Description, Price
+- new discount details

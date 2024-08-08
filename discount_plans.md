@@ -1,0 +1,2 @@
+- discount for new coffeehut_wallet
+- loyal user: discount for loyal users
